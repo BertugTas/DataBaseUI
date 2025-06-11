@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseUI", "DataBaseUI\DataBaseUI.csproj", "{D701ECA9-285C-44C4-A9C0-4D3C7EE4E919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D701ECA9-285C-44C4-A9C0-4D3C7EE4E919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D701ECA9-285C-44C4-A9C0-4D3C7EE4E919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D701ECA9-285C-44C4-A9C0-4D3C7EE4E919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D701ECA9-285C-44C4-A9C0-4D3C7EE4E919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA896F04-5C7A-4F51-ADDF-C639B735DF27}
+	EndGlobalSection
+EndGlobal
